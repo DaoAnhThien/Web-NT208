@@ -1002,7 +1002,6 @@ ul.inner-dropdown.list-unstyled:before {
 .recipy-style2 {
   margin-bottom: 30px;
 }
-
 .recipy-style2 img {
   width: 100%;
 }
@@ -1064,6 +1063,9 @@ monan-title {
   padding-right: 20px;
   background-color: antiquewhite;
   object-fit: cover;
+}
+.card-content h2:hover {
+  text-decoration: underline;
 }
 .card1 {
   width: 600px;
